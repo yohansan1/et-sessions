@@ -4,7 +4,7 @@
 
 ### Here is the overview table of all tests realised. All bugs found and their descriptions can be seen [here for Game 1](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal.pdf) and [here for Game 2](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal%202.pdf):
 
-<img src="tables/Overview.png" width="1000">
+<img src="tables/Overview.png">
 
 ### Here are the tables of the bugs collected using all strategies:
 
