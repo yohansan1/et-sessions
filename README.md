@@ -2,7 +2,7 @@
 
 ### The video records can be found [here](https://www.youtube.com/playlist?list=PLSdOb0Kges6CBIPut0MyoIUjSMFtdR9RS)
 
-### Here is the overview table of all tests realised. All bugs found and their descriptions can be seen [here for Game 1](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal.pdf) and [here for Game 2](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal%202.pdf):
+### Here is the overview table of all tests realised. All bugs found and their descriptions can be seen [here for Game 1](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal.pdf) and [here for Game 2](https://github.com/yohansan1/et-sessions/blob/main/tables/All%20Bugs%20Portal2.pdf):
 
 <img src="tables/Overview.png">
 
