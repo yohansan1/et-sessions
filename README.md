@@ -20,4 +20,6 @@
 
 #### [User Interface](https://github.com/yohansan1/et-sessions/blob/main/tables/User%20Interface%20Table.pdf)
 
-#### [Bad Neighborhood Tour](https://github.com/yohansan1/et-sessions/blob/main/tables/Bad%20Neighbor.pdf)
+#### [Bad Neighborhood Tour (Games 1 to 3)](https://github.com/yohansan1/et-sessions/blob/main/tables/Bad%20Neighborhood%20Games%201%20to%203.pdf)
+
+#### [Bad Neighborhood Tour (Games 4 and 5)](https://github.com/yohansan1/et-sessions/blob/main/tables/Bad%20Neighborhood%20Games%204%20and%205.pdf)
