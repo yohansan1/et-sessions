@@ -8,22 +8,16 @@
 
 ### Here are the tables of the bugs collected using all strategies:
 
-#### Tour Bus Strategy: 
-<img src="tables/TourBus.png" width="600">
+#### [Tour Bus Strategy](https://github.com/yohansan1/et-sessions/blob/main/tables/Tour%20Bus%20Table.pdf)
 
-#### Exploratory Smoke Testing: 
-<img src="tables/ExploratorySmoke.png" width="700">
+#### [Exploratory Smoke Testing](https://github.com/yohansan1/et-sessions/blob/main/tables/Exploratory%20Smoke%20Table.pdf)
 
-#### Crime Spree Tour: 
-<img src="tables/CrimeSpree.png" width="600">
+#### [Crime Spree Tour](https://github.com/yohansan1/et-sessions/blob/main/tables/Crime%20Spree%20Table.pdf)
 
-#### Garbage Collectors Tour: 
-<img src="tables/GarbageCollector.png" width="600">
+#### [Garbage Collectors Tour](https://github.com/yohansan1/et-sessions/blob/main/tables/Garbage%20Collectors%20Table.pdf)
 
-#### Back Alley Strategy: 
-<img src="tables/BackAlley.png" width="600">
+#### [Back Alley Strategy](https://github.com/yohansan1/et-sessions/blob/main/tables/Back%20Alley%20Table.pdf)
 
-#### User Interface: 
-<img src="tables/UserInterface.png" width="800">
+#### [User Interface](https://github.com/yohansan1/et-sessions/blob/main/tables/User%20Interface%20Table.pdf)
 
 #### [Bad Neighborhood Tour](https://github.com/yohansan1/et-sessions/blob/main/tables/Bad%20Neighbor.pdf)
